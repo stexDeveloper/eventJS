@@ -1,0 +1,11 @@
+.active {
+  padding: 20px;
+  background-color: dodgerblue;
+  color: #f90;
+}
+
+.toggleActive {
+  width: 300px;
+  height: 100vh;
+  background-color: dodgerblue;
+}
